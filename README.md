@@ -1,2 +1,2 @@
 # lob-mvp
-test gitgit
+Minimum Viable Product for LOB basketball
